@@ -45,6 +45,7 @@ export const PROJECTS = [
     description:
       "A comprehensive employee self-service portal where employees can view and manage their profiles, track attendance, set goals, view documents, request travel, and apply for reimbursements. The application ensures a seamless user experience with robust authentication and secure data management.",
     technologies: ["React", "Spring Boot", "MongoDB", "CSS"],
+    url: "https://aurora-ess.vercel.app/"
   },
   {
     title: "Vendor Management System (VMS)",
@@ -52,6 +53,7 @@ export const PROJECTS = [
     description:
       "A comprehensive Vendor Management System designed to streamline vendor interactions. Features include tracking vendor details, managing product catalogs, handling purchase orders, and monitoring the stages of each order. The system provides an efficient way to oversee vendor performance, ensure timely deliveries, and maintain transparent communication.",
     technologies: ["React", "Spring Boot", "MongoDB", "CSS"],
+    url: "#"
   },
   {
     title: "Portfolio Website",
@@ -59,6 +61,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React", "Tailwind CSS"],
+    url: "https://srvportfolio.vercel.app/"
   },
   {
     title: "Blogging Platform",
@@ -66,6 +69,7 @@ export const PROJECTS = [
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
     technologies: ["Django", "HTML", "Tailwind CSS"],
+    url: "https://srv-simpleblog.vercel.app/"
   },
 ];
 
